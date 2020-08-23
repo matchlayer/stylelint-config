@@ -1,0 +1,8 @@
+{
+  "name": "@matchlayer/stylelint-config",
+  "version": "0.0.0",
+  "description": "Matchlayer stylelint configuration to be used across projects.",
+  "repository": "https://github.com/matchlayer/stylelint-config.git",
+  "license": "MIT",
+  "author": "Matchlayer Team <developers@matchlayer.com> (https://matchlayer.com/developers)"
+}
